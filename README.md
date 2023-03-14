@@ -12,6 +12,10 @@ I have been contacted by the Police Department of Chicago to do in-depth analysi
 - Are Streets still the primary location from where most of the Motor vehicles are stolen?
 - Is there any seasonal trend to the type of crime? 
 
+#### Data description
+- The data used in the analysis can be found at: https://data.cityofchicago.org/Public-Safety/Crimes-One-year-prior-to-present/x2n5-8w5q 
+- _About the data source_ : Chicago Data Portal is chicago's open data portal that lets us download the facts and data related to the city. Many of the datasets available are updated at least once a day, and many of them are updated several times a day.
+
 ##### Challenges
 Exploratory data analysis (EDA) on public crime datasets can be challenging due to issues with data quality, privacy concerns, data size, data complexity, and bias in the data. Careful consideration of these challenges is necessary to ensure meaningful insights are derived while maintaining ethical and privacy considerations. It is important to evaluate data quality, take measures to protect privacy, reduce data size when necessary, identify important variables, account for biases in the data, and create effective visualizations to facilitate analysis.
 
