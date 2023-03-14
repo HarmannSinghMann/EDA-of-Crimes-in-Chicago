@@ -12,14 +12,12 @@ I have been contacted by the Police Department of Chicago to do in-depth analysi
 - Are Streets still the primary location from where most of the Motor vehicles are stolen?
 - Is there any seasonal trend to the type of crime? 
 
-#### Summary 
-The dataset provided by the client reflects reported incidents of crime that have occurred in the City of Chicago over the past year. The data was extracted from the Chicago Police Department's CLEAR system, and the total sample size before cleaning was 239,775 incidents of crime.
-
 ##### Challenges
 Exploratory data analysis (EDA) on public crime datasets can be challenging due to issues with data quality, privacy concerns, data size, data complexity, and bias in the data. Careful consideration of these challenges is necessary to ensure meaningful insights are derived while maintaining ethical and privacy considerations. It is important to evaluate data quality, take measures to protect privacy, reduce data size when necessary, identify important variables, account for biases in the data, and create effective visualizations to facilitate analysis.
 
 ##### Conclusion
 To conclude the analysis, the most common crime in the city is theft, and it occurred most frequently at N STATE ST. Motor vehicle theft mostly happens on the streets, and W 87TH ST is the place where most incidents occurred in the past year. There is a seasonal trend to the crimes, with an approximately 16% drop in crime during the winter-spring period compared to the summer-fall period. Theft and battery were the most common crimes in all seasons. A heat map was generated to show hot spots of crime in Chicago, and N STATE ST was identified as a criminal hot spot in terms of crime occurrences in the city.
+![heatmap_chicago](https://user-images.githubusercontent.com/65723872/225020604-77dfc457-b76f-4f33-b9a3-0e867b0a98e6.JPG)
 
 ##### Next Steps :
 There are several potential next steps in the analysis that could provide additional insights into the patterns and trends of crime in Chicago. Here are a few examples:
