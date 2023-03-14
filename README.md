@@ -6,9 +6,9 @@ The course MSDSP-430 provides a comprehensive introduction to the core features 
 The project "Analysis of Crimes in Chicago" is a data analysis project that aims to explore the crime trends in Chicago over the past few years. The project utilizes the data on crimes reported in Chicago from the past year, available from the Chicago Police Department's website. The project involves data cleaning, data wrangling, data visualization, and data analysis using Python and various Python packages.
 ### Repository Structure
 This repository contains the following files:
-- data/: This folder contains the raw data files downloaded from the Chicago Police Department's website.
-- crime_analysis.ipynb: This is the Jupyter notebook containing the Python code for data cleaning, data wrangling, data visualization, and data analysis.
-- README.md: This file provides an overview of the project and repository.
+- *data/*: This folder contains the raw data files downloaded from the Chicago Police Department's website.
+- *crime_analysis.ipynb*: This is the Jupyter notebook containing the Python code for data cleaning, data wrangling, data visualization, and data analysis.
+- *README.md*: This file provides an overview of the project and repository.
 ### How to Use This Repository
 To use this repository, you can simply clone or download the repository to your local machine. The crime_analysis.ipynb file can be opened using Jupyter Notebook or JupyterLab to view and run the Python code.
 Dependencies
