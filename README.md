@@ -46,7 +46,7 @@ The project uses the following Python packages:
 - matplotlib
 - seaborn
 - folium
-All the packages can be installed using pip.
+<br>All the packages can be installed using pip.
 _pip install pandas numpy matplotlib seaborn_
 ###Acknowledgments
 The data used in this project was obtained from the Chicago Police Department's website. I would like to acknowledge their efforts in making this data publicly available.
