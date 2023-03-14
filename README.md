@@ -3,7 +3,7 @@ This repository contains the code and data for the project "Analysis of Crimes i
 ### Course Description
 The course MSDSP-430 provides a comprehensive introduction to the core features of the Python programming language. The course demonstrates fundamental concepts in computer science, including data representation strategies and implementation of data structures in Python. Students learn about tools for data science and software engineering and work on data analysis problems employing various programming paradigms such as functional programming, object-oriented programming, and data stream processing. The course also pays special attention to the standard Python library and packages for analytics and modeling.
 ### Project Description
-The project "Analysis of Crimes in Chicago" is a data analysis project that aims to explore the crime trends in Chicago over the past few years. The project utilizes the data on crimes reported in Chicago from 2001 to present, available from the Chicago Police Department's website. The project involves data cleaning, data wrangling, data visualization, and data analysis using Python and various Python packages.
+The project "Analysis of Crimes in Chicago" is a data analysis project that aims to explore the crime trends in Chicago over the past few years. The project utilizes the data on crimes reported in Chicago from the past year, available from the Chicago Police Department's website. The project involves data cleaning, data wrangling, data visualization, and data analysis using Python and various Python packages.
 ### Repository Structure
 This repository contains the following files:
 - data/: This folder contains the raw data files downloaded from the Chicago Police Department's website.
