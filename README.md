@@ -16,7 +16,9 @@ I have been contacted by the Police Department of Chicago to do in-depth analysi
 Exploratory data analysis (EDA) on public crime datasets can be challenging due to issues with data quality, privacy concerns, data size, data complexity, and bias in the data. Careful consideration of these challenges is necessary to ensure meaningful insights are derived while maintaining ethical and privacy considerations. It is important to evaluate data quality, take measures to protect privacy, reduce data size when necessary, identify important variables, account for biases in the data, and create effective visualizations to facilitate analysis.
 
 ##### Conclusion
-To conclude the analysis, the most common crime in the city is theft, and it occurred most frequently at N STATE ST. Motor vehicle theft mostly happens on the streets, and W 87TH ST is the place where most incidents occurred in the past year. There is a seasonal trend to the crimes, with an approximately 16% drop in crime during the winter-spring period compared to the summer-fall period. Theft and battery were the most common crimes in all seasons. A heat map was generated to show hot spots of crime in Chicago, and N STATE ST was identified as a criminal hot spot in terms of crime occurrences in the city.
+Based on the analysis conducted, theft is identified as the most common crime in the city of Chicago, with N STATE ST being the location where it occurred most frequently. Motor vehicle theft, on the other hand, was found to primarily occur on the streets, with W 87TH ST being the location of most incidents in the past year. Additionally, there was a seasonal trend observed in the crimes, with a reduction of approximately 16% during the winter-spring period compared to the summer-fall period. The most prevalent crimes across all seasons were theft and battery.
+<br>
+Moreover, a heat map was generated to identify hot spots of crime in the city, which highlighted N STATE ST as a criminal hot spot in terms of crime occurrences. This analysis provides valuable insights into the nature and frequency of crimes in Chicago and can aid in developing targeted crime prevention strategies.
 ![heatmap_chicago](https://user-images.githubusercontent.com/65723872/225020604-77dfc457-b76f-4f33-b9a3-0e867b0a98e6.JPG)
 
 ##### Next Steps :
@@ -46,7 +48,6 @@ The project uses the following Python packages:
 - matplotlib
 - seaborn
 - folium
-<br>All the packages can be installed using pip.
-_pip install pandas numpy matplotlib seaborn_
-###Acknowledgments
+
+### Acknowledgments
 The data used in this project was obtained from the Chicago Police Department's website. I would like to acknowledge their efforts in making this data publicly available.
