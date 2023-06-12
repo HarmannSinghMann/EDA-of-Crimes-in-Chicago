@@ -41,6 +41,7 @@ There are several potential next steps in the analysis that could provide additi
 ### Repository Structure
 This repository contains the following files:
 - **crime_analysis.ipynb**: This is the Jupyter notebook containing the Python code for data cleaning, data wrangling, data visualization, and data analysis.
+- **crime_executive_summary.html**: This is the Jupyter notebook containing the final analysis report of the crimes in the city of chicago.
 - **README.md**: This file provides an overview of the project and repository.
 ### How to Use This Repository
 To use this repository, you can simply clone or download the repository to your local machine. The crime_analysis.ipynb file can be opened using Jupyter Notebook or JupyterLab to view and run the Python code.
