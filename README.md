@@ -40,7 +40,6 @@ There are several potential next steps in the analysis that could provide additi
 
 ### Repository Structure
 This repository contains the following files:
-- **data/**: This folder contains the raw data files downloaded from the Chicago Police Department's website.
 - **crime_analysis.ipynb**: This is the Jupyter notebook containing the Python code for data cleaning, data wrangling, data visualization, and data analysis.
 - **README.md**: This file provides an overview of the project and repository.
 ### How to Use This Repository
